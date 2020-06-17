@@ -44,6 +44,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Devi Mandasari](https://www.instagram.com/devimandas14)|[Github](https://github.com/devimandas/WWDC20-Gonggong)|[Youtube](https://www.youtube.com/watch?v=DNXkG2Ow4ZY)|SpriteKit, AVFoundation|Submitted|
 |[Duraid Abdul](https://twitter.com/duraidabdul/)|[GitHub](https://github.com/duraidabdul/Sleep)||UIKit, SwiftUI, Core Motion|Accepted|
 |[Edgar Vilchis](https://twitter.com/edgarvil96)|[Github](https://github.com/Evil96/WWDC)|[Youtube](https://www.youtube.com/watch?v=uvENDZJteiI)|UIKit, CoreML|Submitted|
+|[Euan Traynor](https://twitter.com/EuanFTraynor)|[Github](https://github.com/efalloon/WWDC2020-Accepted)||UIKit, Foundation|Accepted|
 |[Federico Ciardi](https://github.com/fedeci)|[Github](https://github.com/fedeci/WWDC2020)||SpriteKit, AVFoundation|Accepted|
 |[Fernando Fontecha](http://ferfontecha.com)||[YouTube](https://www.youtube.com/watch?v=zi2J60IKbKw)|UIKit, Core Animation, PlaygroundSupport|Accepted|
 |[Frank Foster](https://twitter.com/frankefoster)|[Github](https://github.com/analogpotato/WWDCSubmission)||AVFoundation, Vision, VisionKit|Submitted|
@@ -109,7 +110,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2020/edit/mas
 |[Uladzislau Tarasevich](https://github.com/Sencudra)|[GitHub](https://github.com/Sencudra/WWDC-2020)|[YouTube](https://youtu.be/-gmsWnv3UZ8)|SpriteKit, AVFoundation|Submitted|
 |[Umar Haroon](https://twitter.com/umar__haroon)|[GitHub](https://github.com/Umar-M-Haroon/WWDC2020)||ARKit, SceneKit, SwiftUI, UIKit|Accepted|
 |[Valentino Cerutti](https://twitter.com/micrograx)|[GitHub](https://github.com/Micrograx/Emotions-WWDC20)||SwiftUI, AVFoundation|Rejected|
-|[Vincent Cai](https://vince14genius.github.io/)|[GitHub](https://github.com/Vince14Genius/WWDC20-Wotagei-x-Music-Game)|(later)|SpriteKit, SwiftUI, SKShader (OpenGL/GLSL)|Accepted|
 |[Vinicius Chagas](https://github.com/vcsoares/)|[GitHub](https://github.com/vcsoares/FourierAndMusic)|[YouTube](https://youtu.be/fZsP1-hPrt0)|SwiftUI, AVFoundation|Accepted|
 |[Wendy Liga](https://twitter.com/wendyliga)|[GitHub](https://github.com/wendyliga/tunery)|[Youtube](https://youtu.be/L17PW6inUzw)|AVFoundation, UIKit|Accepted|
 |[William Taylor](https://twitter.com/wfltaylor)||[YouTube](https://youtu.be/TKM9Sut60fs)|UIKit, SceneKit, ARKit, AVFoundation|Submitted|
